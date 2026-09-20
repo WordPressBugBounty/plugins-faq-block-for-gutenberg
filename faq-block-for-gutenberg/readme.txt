@@ -6,12 +6,11 @@ Author URI: https://profiles.wordpress.org/dilipbheda
 Contributors: dilipbheda, jigar-bhanushali
 Tags: blocks, faq, gutenberg faq, editor, faq block
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 7.0
 Requires PHP: 7.2
 Stable tag: 2.7
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Donate link: https://paypal.me/dilipbheda
 
 This plugin provides a quick and easy way to add FAQ's block using Gutenberg visual editor.
 
